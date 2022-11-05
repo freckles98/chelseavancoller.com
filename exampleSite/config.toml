@@ -3,6 +3,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "chelseavancoller.com"
+themesDir = "../.."
 #title = "Chelsea"
 
 # css plugins
