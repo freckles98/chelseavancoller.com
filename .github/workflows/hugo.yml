@@ -41,9 +41,9 @@ jobs:
       - name: Build
         run: cd exampleSite; hugo --themesDir ../..
 
-      # Step 5 - Create name file
-      - name: Create cname file
-        run: echo 'chelseavancoller.com' > public/CNAME
+#      # Step 5 - Create name file
+#      - name: Create cname file
+#        run: echo 'chelseavancoller.com' > CNAME
 
       # Step 6 - Push our generated site to our gh-pages branch
       - name: Deploy
