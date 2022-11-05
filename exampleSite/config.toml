@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://demo.gethugothemes.com/chelseavancoller.com/examplesite/"
+baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "chelseavancoller.com"
