@@ -41,7 +41,7 @@ jobs:
       - name: Build
         run: cd exampleSite; hugo --themesDir ../..
 
-      # Step 5 - Create name file
+      # Step 5 - Create name file :)
       - name: Create cname file
         run: echo 'chelseavancoller.com' > CNAME
 
