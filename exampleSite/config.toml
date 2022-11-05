@@ -56,11 +56,11 @@ logo = ""
 # theme color
 theme_color = "#41228e"
 # contact info
-phone = "+880 2544 658 256"
-email = "steve.fruits@email.com"
-address = "125/A, CA Commercial Area, California, USA"
+phone = "101010100001111100110101010100"
+email = "chelsvancoller@gmail.com"
+address = "Cape Town, South Africa"
 # meta description
-author = "Johnathan Smith"
+author = "Chelsea Van Coller"
 description = "This is meta description"
 # google analytics
 google_analytics_id = "" # Your ID
@@ -78,13 +78,13 @@ enable = true
 preloader = "images/preloader.gif" # use png, jpg, svg or gif format
 
 # contact
-[params.contact]
-enable = true
-form_action = "#" # contact form works with : https://formspree.io
+# [params.contact]
+# enable = true
+# form_action = "#" # contact form works with : https://formspree.io
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -92,22 +92,22 @@ map_marker = "images/marker.png"
 
 # cookies
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 
 # social site
 [[params.social]]
-icon = "ti-facebook"
-URL = "#"
+icon = "ti-linkedin"
+URL = "https://www.linkedin.com/in/chelsea-van-coller-3234631a0/"
 
 [[params.social]]
 icon = "ti-instagram"
-URL = "#"
+URL = "https://www.instagram.com/chelseavancoller/?hl=en"
 
 [[params.social]]
-icon = "ti-dribbble"
-URL = "#"
-
+icon = "ti-facebook"
+URL = "https://www.facebook.com/chelsea.vancoller/"
+#todo add a different channel?
 [[params.social]]
-icon = "ti-twitter-alt"
+icon = "ti-youtube"
 URL = "#"

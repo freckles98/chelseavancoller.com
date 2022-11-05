@@ -1,13 +1,20 @@
 ---
 title: "About"
 description: "This is meta description."
-author_image : "images/about/author.jpg"
+author_image : "images/about/chelsea.jpg"
 author_signature : "images/about/signature.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+Hi there,
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+I am a software developer living in the mother city of Cape Town. I recently graduated (2021) from the University of Cape Town with a Bachelor of Business Science specialising in Computer Science. I am greatly interested in both fields, but
+am currently working in a purely technical capacity.
+
+I work for an excellent company called Electrum Payments that is located in Woodstock. They focus on facilitating payments between banks and retailers in South Africa.
+
+My programming experience is mostly geared towards backend development specialising in Java, but I also have experience with Python, mySQL, HTML and CSS. I also have worked with technologies such as docker, n8n, multiple AWS products, etc.
+I am always eager to learn and try new things.
+
+In my personal life, I aspire to live a balanced healthy life. I am passionate about trail running or anything related to being on a mountain. On the weekend, I can be found at a play, on the mountain or with family and friends. 
