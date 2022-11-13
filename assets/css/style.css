@@ -652,6 +652,10 @@ textarea.form-control {
   font-weight: 400
 }
 
+
+.center{
+ text-align: center;
+}
 .testimonial-bg-shapes .container {
   position: relative;
   z-index: 1
