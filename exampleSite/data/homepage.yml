@@ -103,7 +103,7 @@ portfolio:
 # testimonial
 testimonial:
   enable: true
-  title: "Testimonials"
+  title: "Day in the Life"
   item:
     - name: "Jesica Gomez"
       image: "images/testimonial/client-1.png"
