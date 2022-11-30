@@ -1,10 +1,10 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-5.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["design"]
+title: "Covid Crossing"
+date: 2020-05-12T12:14:34+06:00
+image: "images/portfolio/covid_crossing.png"
+client: "Games Development"
+project_url : "https://github.com/freckles98/covid-crossing"
+categories: ["Game Development"]
 description: "This is meta description."
 draft: false
 ---

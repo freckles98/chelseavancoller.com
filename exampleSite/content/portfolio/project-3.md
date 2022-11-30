@@ -1,30 +1,21 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-3.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["illustration"]
+title: "WiTech Hackathon"
+date: 2020-10-03T12:14:34+06:00
+image: "images/portfolio/Hackathon.png"
+client: "Hackathon"
+project_url : "https://github.com/freckles98/chellynn-steps"
+categories: ["App Development"]
 description: "This is meta description."
 draft: false
 ---
 
 #### Project Requirements
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+In October 2020, Lynn and I entered the Intervarsity Womxn in Technology Hackathon. The problem statement was to develop a solution that uses technology to tackle an issue that society is facing as a result of the covid-19 epidemic.
 
 
 #### Project Details
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+We created an app that puts a social spin on reaching your daily step count. Our app was specifically targeted at schools who are unable to do sport at the moment due to the COVID-19 regulations. It encourages students to reach a class goal of steps and have students compete against other classes to achieve the most number of steps. This focuses on sport and education and gives the students a fun way to exercise together.
+
+Read more about the Hackathon here: http://wcs.cs.uct.ac.za/index.php/2020/10/04/womxn-in-tech-hackathon-2020/

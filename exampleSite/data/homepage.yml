@@ -101,7 +101,7 @@ portfolio:
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial
-testimonial:
+video:
   enable: true
   title: "Day in the Life"
 
