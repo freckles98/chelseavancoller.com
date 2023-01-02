@@ -100,7 +100,7 @@ portfolio:
   item_show: 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
-# testimonial
+# video
 video:
   enable: true
   title: "Day in the Life"
@@ -141,6 +141,6 @@ clients_logo_slider:
 
 # blog
 blog:
-  enable: true
+  enable: false
   title: "Blogs"
   # blog post comes from "content/blog" folder

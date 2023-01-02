@@ -34,10 +34,10 @@ URL = "about/"
 name = "About"
 weight = 1
 
-[[menu.main]]
-URL = "blog/"
-name = "Blog"
-weight = 2
+# [[menu.main]]
+# URL = "blog/"
+# name = "Blog"
+# weight = 2
 
 [[menu.main]]
 URL = "portfolio/"
@@ -57,9 +57,10 @@ logo = ""
 # theme color
 theme_color = "#41228e"
 # contact info
-phone = "101010100001111100110101010100"
+
 email = "chelsvancoller@gmail.com"
 address = "Cape Town, South Africa"
+github = "freckles98"
 # meta description
 author = "Chelsea Van Coller"
 description = "This is meta description"
