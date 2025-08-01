@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable: true
-  content: "I am a software developer, living in the beautiful mother city, Cape Town, South Africa. I recently graduated from the University of Cape Town  in 2021 in Business Science specialising in Computer Science. I am currently working as a backend Java developer at Electrum Payments."
+  content: "Hi there! I’m a software developer with over three years of experience, including one year in a team lead role. My background is rooted in backend and full-stack development, but I’m especially drawn to work that has a clear, positive impact. I’m currently on a gap year, which has given me space to reflect on the kind of work I want to return to: thoughtful, people-centred, and purpose-driven."
   button:
     enable: true
     label: "know more"
@@ -14,23 +14,19 @@ about:
 # skill
 skill:
   enable: true
-  title: "Programming Languages"
+  title: "Technical Skills"
   item:
-    - title: "Java"
-      progress: "90%"
-      color: "#fdb157"
+    - title: "Languages"
+      content: "Java, Python, C#, SQL, HTML/CSS"
 
-    - title: "Python"
-      progress: "70%"
-      color: "#9473e6"
+    - title: "Frameworks/Tools"
+      content: "REST APIs, Maven, Gradle, Docker, Kubernetes, n8n, Xamarin, .NET"
 
-    - title: "SQL"
-      progress: "60%"
-      color: "#bdecf6"
+    - title: "Platforms"
+      content: "AWS, Linux"
 
-    - title: "HTML and CSS"
-      progress: "40%"
-      color: "#ffbcaa"
+    - title: "Development Practices"
+      content: "Agile, Scrum, CI/CD"
 
 # experience
 experience:
@@ -38,19 +34,22 @@ experience:
   title: "Experience"
   item:
     - logo: "images/experience/icon-1.png"
-      title: "Intern Frontend Developer"
-      company: "FULLSTACK"
-      duration: "Dec 2019 - Jan 2020"
+      title: "Software Engineering Team Lead"
+      company: "Electrum Payments"
+      duration: "Feb 2024 - Dec 2024"
+      description: "Managed a team of seven software engineers/business analysts. Ensured that each person had sufficient work and was not facing any impediments. Managed the pipeline of work entering the team. Had fortnightly one-on-ones with each team member and triannual performance reviews. Managed team performance, tracked goals, and facilitated professional development. Collaborated with cross-functional teams to deliver projects and ensure cohesion in all aspects of the SLDC. Assisted with recruitment and strategic planning."
 
     - logo: "images/experience/icon-2.png"
-      title: "Intern Backend Developer"
-      company: "ELECTRUM PAYMENTS"
-      duration: "Jan 2021 - Feb 2021"
+      title: "Software Developer"
+      company: "Electrum Payments"
+      duration: "Jan 2022 - Jan 2024"
+      description: "Backend Java software engineer responsible for developing and maintaining digital payments software. Leading diverse projects within the payments domain. Utilizing AWS for deploying and maintaining applications, leveraging services such as EC2, RDS, and S3. Experience in SaaS development. Engaging in client communication. Addressing and resolving issues in intricate systems within a live operational setting. Experience in dealing with microservices architecture and utilising containerization tools like Docker."
 
     - logo: "images/experience/icon-1.png"
-      title: "Junior Software Developer"
-      company: "ELECTRUM PAYMENTS"
-      duration: "Jan 2022 - Present"
+      title: "Software Development Intern"
+      company: "Electrum Payments "
+      duration: "Jan 2021 - Feb 2021"
+      description: "Built a Java plugin for payment systems and was introduced to Maven, Swagger, SonarQube, Unit testing with Mockito, and Wireshark. Gained experience in team work in the industry, and learnt to use collaborative tools effectively such as Asana. Gained exposure to fintech systems and development lifecycle."
 
 # education
 education:
@@ -65,33 +64,26 @@ education:
       year: "2017"
       academy: "Westerford High School"
 
-#    - title: "Higher Secondary Certificat"
-#      year: "2000"
-#      academy: "Cardiff School"
-
-#    - title: "Secondary School Certificate"
-#      year: "1998"
-#      academy: "Cardiff School"
 
 # service
-#service:
-#  enable: true
-#  title: "Services"
-#  item:
-#    - title: "UI Design"
-#      icon: "ti-palette"
-#      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-#      highlighted: false
-#
-#    - title: "UX Design"
-#      icon: "ti-vector"
-#      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-#      highlighted: true
-#
-#    - title: "Interaction Design"
-#      icon: "ti-panel"
-#      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-#      highlighted: false
+service:
+ enable: false
+ title: "Services"
+ item:
+   - title: "UI Design"
+     icon: "ti-palette"
+     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+     highlighted: false
+
+   - title: "UX Design"
+     icon: "ti-vector"
+     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+     highlighted: true
+
+   - title: "Interaction Design"
+     icon: "ti-panel"
+     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+     highlighted: false
 
 # portfolio
 portfolio:
